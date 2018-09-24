@@ -1,2 +1,2 @@
 # TestingRep
-This is my first readme oon GitHub!
+This is my first readme on GitHub!
